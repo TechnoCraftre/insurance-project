@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: insurance
-          image: technocraftre/demoinsure2.0
+          image: technocraftre/demoinsurance1.0
           ports:
             - containerPort: 8081
           env:
